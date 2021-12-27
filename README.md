@@ -1,4 +1,7 @@
 # Prog1MP3
+Author: Arin Santry
+Class: Programming 1, Fall 2018
+Built in: Visual Studio
 
 This program is a game of two-player tic tac toe (both players are human). One player will always play 'X' and the other will always play 'O'
 
